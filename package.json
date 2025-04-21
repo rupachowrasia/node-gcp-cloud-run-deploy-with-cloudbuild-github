@@ -1,0 +1,23 @@
+{
+  "name": "gcp-cloud-run-deploy-with-cloudbuild-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupachowrasia/node-gcp-cloud-run-deploy-with-cloudbuild-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupachowrasia/node-gcp-cloud-run-deploy-with-cloudbuild-github/issues"
+  },
+  "homepage": "https://github.com/rupachowrasia/node-gcp-cloud-run-deploy-with-cloudbuild-github#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
