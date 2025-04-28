@@ -29,10 +29,10 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/rupachowrasia/node-gcp-cloud-run-deploy-with-cloudbuild-github.git
+git clone https://github.com/rupachowrasia/gcp-cloud-run-deploy-with-cloudbuild-github-using-nodejs.git
 
 # Move into the project directory
-cd node-gcp-cloud-run-deploy-with-cloudbuild-github
+cd gcp-cloud-run-deploy-with-cloudbuild-github-using-nodejs
 
 # Install dependencies
 npm install
